@@ -1,3 +1,3 @@
 # sticker-album
 
-`live demo -->` https://moviedb-with-theme.netlify.app
+`live demo -->` https://sticker-album.netlify.app/
