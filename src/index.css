@@ -208,7 +208,7 @@ p {
   box-shadow: 0 0 8px #007c94cf;
   border-radius: 8px;
   background-image: url('./assets/images/cover-bg2.jpg');
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 
 }
